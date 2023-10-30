@@ -11,11 +11,13 @@ display: flex; align-items: center; justify-content: center;
 	width: 15%;
 	height: 20vh;
 	background-color: darkgreen;
+display: flex; align-items: center; justify-content: center;
 }	
 .filho2{
 	width: 65%;
 	height: 20vh;
 	background-color: darkgreen;
+display: flex; align-items: center; justify-content: center;
 
 }
 .filho33{
@@ -23,6 +25,7 @@ display: flex; align-items: center; justify-content: center;
 	height: 20vh;
 	background-color: 	darkgreen;
 	border-top: 30px;
+display: flex; align-items: center; justify-content: center;
 
 
 
