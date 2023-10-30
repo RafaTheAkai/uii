@@ -1,0 +1,63 @@
+.pai{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	border: 10px;
+display: flex; align-items: center; justify-content: center;
+	
+}
+
+.filho1{
+	width: 15%;
+	height: 20vh;
+	background-color: darkgreen;
+}	
+.filho2{
+	width: 65%;
+	height: 20vh;
+	background-color: darkgreen;
+
+}
+.filho33{
+	width: 20%;
+	height: 20vh;
+	background-color: 	darkgreen;
+	border-top: 30px;
+
+
+
+}
+
+
+.filho3{
+	width: 100%;
+	height: 20vh;
+	background-color: lightgrey;
+display: flex;
+ align-items: center;
+  justify-content: center;
+}
+.filho4{
+	width: 65%;
+	height: 70vh;
+	background-color: white;
+	background-size: 90%;
+}
+.filho5{
+	width: 35%;
+	height:70vh;
+	background-color: white;
+}
+.filho6{
+	width: 100%;
+	height:20vh;
+	background-color: green;
+}
+#sexbox{
+	font-size: 30px;
+	color:blue;
+}
+#sexbox2{
+	height: 4vh;
+	width: 100%;
+}
